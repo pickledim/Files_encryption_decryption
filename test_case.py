@@ -1,4 +1,4 @@
-import Files_encryption_decryption.src.encryption as enc
+import src.encryption as enc
 import os
 
 # fill the data
